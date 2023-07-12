@@ -1,1 +1,2 @@
-Welcome to my silly GitHub profile!
+Welcome to the first sentence of my GitHub profile!
+This is a second sentence.
